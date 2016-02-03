@@ -16,8 +16,7 @@ CREATE TABLE IF NOT EXISTS `order_associate` (
 
 -- Dumping data for table raffle.order_associate: ~0 rows (approximately)
 DELETE FROM `order_associate`;
-/*!40000 ALTER TABLE `order_associate` DISABLE KEYS */;
-/*!40000 ALTER TABLE `order_associate` ENABLE KEYS */;
+
 
 -- Dumping structure for table raffle.raffle
 DROP TABLE IF EXISTS `raffle`;
